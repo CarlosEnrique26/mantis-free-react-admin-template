@@ -22,26 +22,26 @@ const icons = {
 
 const utilities = {
   id: 'utilities',
-  title: 'Utilities',
+  title: 'Utiles',
   type: 'group',
   children: [
     {
       id: 'util-typography',
-      title: 'Typography',
+      title: 'Inventario',
       type: 'item',
       url: '/typography',
       icon: icons.FontSizeOutlined
     },
     {
       id: 'util-color',
-      title: 'Color',
+      title: 'Trabajadores',
       type: 'item',
       url: '/color',
       icon: icons.BgColorsOutlined
     },
     {
       id: 'util-shadow',
-      title: 'Shadow',
+      title: 'Horarios',
       type: 'item',
       url: '/shadow',
       icon: icons.BarcodeOutlined

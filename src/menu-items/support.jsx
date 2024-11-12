@@ -11,19 +11,19 @@ const icons = {
 
 const support = {
   id: 'support',
-  title: 'Support',
+  title: 'Ayuda',
   type: 'group',
   children: [
     {
       id: 'sample-page',
-      title: 'Sample Page',
+      title: 'Configuracion',
       type: 'item',
       url: '/sample-page',
       icon: icons.ChromeOutlined
     },
     {
       id: 'documentation',
-      title: 'Documentation',
+      title: 'Atencion al Cliente',
       type: 'item',
       url: 'https://codedthemes.gitbook.io/mantis/',
       icon: icons.QuestionOutlined,

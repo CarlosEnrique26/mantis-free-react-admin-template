@@ -11,12 +11,12 @@ const icons = {
 
 const pages = {
   id: 'authentication',
-  title: 'Authentication',
+  title: 'Principales',
   type: 'group',
   children: [
     {
-      id: 'login1',
-      title: 'Login',
+      id: 'Clientes',
+      title: 'Gestion',
       type: 'item',
       url: '/login',
       icon: icons.LoginOutlined,
@@ -24,7 +24,7 @@ const pages = {
     },
     {
       id: 'register1',
-      title: 'Register',
+      title: 'Platos',
       type: 'item',
       url: '/register',
       icon: icons.ProfileOutlined,
